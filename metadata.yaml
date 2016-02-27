@@ -1,0 +1,25 @@
+_repo: Los-Bombardeos-Atomicos-de-Hiroshima-y-Nagasaki_2367
+creator:
+  author:
+    agent_name: United States. Army. Corps of Engineers. Manhattan District
+    gutenberg_agent_id: '352'
+    url: http://www.gutenberg.org/2009/agents/352
+description: "This is an HTML Spanish translation of our Etext #685 (The Atomic Bombings\
+  \ of Hiroshima and Nagasaki)\r\nCf. Trinity Atomic Web Site: \r\nhttp://www.cddc.vt.edu/host/atomic/"
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2367'
+language: es
+publication_note: '[S.l] :  Manhattan Engineer District of the United States Army,  1946'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atomic bomb -- Blast effect'
+- !lcsh 'Atomic bomb -- Physiological effect'
+- !lcc 'D'
+- !lcsh 'Hiroshima-shi (Japan) -- History -- Bombardment, 1945'
+- !lcsh 'Nagasaki-shi (Japan) -- History -- Bombardment, 1945'
+title: Los Bombardeos Atomicos de Hiroshima y Nagasaki
+url: http://www.gutenberg.org/ebooks/2367
