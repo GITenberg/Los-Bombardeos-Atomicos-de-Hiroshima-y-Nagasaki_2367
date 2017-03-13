@@ -1,5 +1,8 @@
 _repo: Los-Bombardeos-Atomicos-de-Hiroshima-y-Nagasaki_2367
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: United States. Army. Corps of Engineers. Manhattan District
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/352
 description: "This is an HTML Spanish translation of our Etext #685 (The Atomic Bombings\
   \ of Hiroshima and Nagasaki)\r\nCf. Trinity Atomic Web Site: \r\nhttp://www.cddc.vt.edu/host/atomic/"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2367#Los-Bombardeos-Atomicos-de-Hiroshima-y-Nagasaki
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
 identifiers:
